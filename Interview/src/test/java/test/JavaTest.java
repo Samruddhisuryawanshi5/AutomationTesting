@@ -62,7 +62,7 @@ public class JavaTest {
         /*int additional=javaTest.numbers(10,90);
                System.out.println( javaTest.divide(additional,10));*/
         System.out.println(name("samru","damu"));
-
+        System.out.println(name("sucess","AXIS"));
 
 
     }
