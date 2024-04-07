@@ -24,6 +24,7 @@ public class amazon {
         Assert.assertEquals(store[1],"Mobile");
         Assert.assertEquals(store[2],"NewHeader");
         Assert.assertEquals(store[2],"Extra Line");
+        //This is Test Line
         //save in something =amzonHomePage.headers();
         //something[0]=Electronics
         //something[1]=Mobiles
