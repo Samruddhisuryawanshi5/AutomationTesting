@@ -1,0 +1,13 @@
+Questions
+1. Create a Method to do Upper CAse
+2. Create a Method to do lower case
+3. Create a Method to Sum 2 Numbers and Return the Ouput
+4. Create a Method to Divide 2 numbers and return reminder
+5. Create a Method to remove Special Charachters from input String
+6. Create a Method to check if input String is Plalindrome or Not and return true or false if true print is Plalindrome
+7. Create a Method to Split the Input String using split input and return output array - String input,String splitter - samruddhi is good, " "
+8. Write a Class named TestBase and write a method to open browser and use inheritance to use the methods
+9. Write a method to remove , from input string
+10.Write a Method which will return all headers from amazon in array
+
+

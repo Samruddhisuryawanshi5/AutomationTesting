@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SauceLabs" parallel="tests" thread-count="3" >
+    <test
+          name="login Validation">
+        <classes>
+            <class name="test.sauceLabs.loginTestCase"/>
+        </classes>
+    </test>
+    <test
+            name="product Validation">
+        <classes>
+
+            <class name="test.sauceLabs.ProductTestCase"/>
+
+        </classes>
+    </test>
+    <test
+            name="add Validation">
+        <classes>
+            <class name="test.sauceLabs.addToCartTestCase"/>
+        </classes>
+    </test>
+</suite>
