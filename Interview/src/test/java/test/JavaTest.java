@@ -64,6 +64,11 @@ public class JavaTest {
         System.out.println(name("samru","damu"));
 
 
+         System.out.println(name("sucess","AXIS"));
+        //no need to change
+
+
+
         System.out.println(name("sucess","AXIS"));
         //no need to change
 
