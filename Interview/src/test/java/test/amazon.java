@@ -22,7 +22,7 @@ public class amazon {
         String[] store=amzonHomePage.headers();
         Assert.assertEquals(store[0],"Electronics");
         Assert.assertEquals(store[1],"Mobile");
-
+        Assert.assertEquals(store[2],"NewHeader");
         //save in something =amzonHomePage.headers();
         //something[0]=Electronics
         //something[1]=Mobiles
